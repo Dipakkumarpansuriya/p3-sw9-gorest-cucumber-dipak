@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Testing different request on the gorest app","As a user I update a user with name","SUCCESS","2023-01-10T01:34:25.977Z[Europe/London]","0.0","0.42"
+"Testing different request on the gorest app","As a user I delete a user","SUCCESS","2023-01-10T01:34:26.533Z[Europe/London]","0.0","0.87"
+"Testing different request on the gorest app","As a user I am creating new users","SUCCESS","2023-01-10T01:34:27.460Z[Europe/London]","0.0","6.64"
